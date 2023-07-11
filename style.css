@@ -1,0 +1,65 @@
+h1{
+text-align: center;
+}
+.list{
+    font-weight: 900;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    list-style: none;
+    border: 2px solid black;
+    ;
+
+}
+.wrapper{
+    display: flex;
+    gap: 40px;
+
+}
+body{
+    background-color: rgb(206, 206, 206);
+}
+.box{
+    background-color: white;
+    padding: 10px;
+    border: 2px solid black;
+}
+.item{
+    background-color:rgb(206, 206, 206) ;
+}
+img{
+    width: 150px;
+}
+.footer{
+    padding: 40px ;
+    background-color: rgb(124, 107, 128);
+    margin-top: 40px;
+    width: 400px;
+}
+.new-img{
+    width: 300px;
+}
+.cat{
+    font-weight: 900;
+}
+.new{ 
+    border: 3px solid rgb(0, 0, 0); 
+    padding: 30px; 
+    width: 310px; 
+    margin: 20px; 
+} 
+.new-img{ 
+    width: 300px; 
+    margin-bottom: 30px; 
+}
+.new-wrap{
+display:flex;
+justify-content: space-around;
+}
+.wear{
+display:flex;
+justify-content: space-around;
+width: 300px;
+}
